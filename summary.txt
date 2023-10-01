@@ -1,0 +1,16 @@
+Answer 1)
+
+For this API implementation, I used JavaScript and its library express.js.I believe that this
+as it is a fast and minimal web framework for Node.js.Morover it offers flexibility in terms of 
+defining custom routes,and handling various HTTP requests.
+
+
+Answer 2)
+
+
+I believe that my soultion was advantageous because it was fast and could be scaled very quickly, how  using this tool for commerical purposes can be error prone because it is not very performant and does not have types, so using such tool for personal projects makes more sense.
+
+
+Answer 3)
+
+My favourite school project thus far has been developing Password Analysis and Optimization project using Binary Search Trees (BST). The most challenging part of building this prject was to understand the SHA-1 Hash passwords and how they could be tested extensively.
